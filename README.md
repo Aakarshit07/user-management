@@ -33,7 +33,7 @@ If you want to set up this project locally, follow the steps below.
 
 ```bash
 git clone https://github.com/Aakarshit07/user-management.git
-cd user-management-app
+cd user-management
 ```
 
 ### 2. **Install Required Dependencies**
