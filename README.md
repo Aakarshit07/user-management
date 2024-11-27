@@ -32,7 +32,7 @@ If you want to set up this project locally, follow the steps below.
 ### 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/user-management-app.git
+git clone https://github.com/Aakarshit07/user-management.git
 cd user-management-app
 ```
 
